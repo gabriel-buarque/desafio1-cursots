@@ -122,40 +122,7 @@ Este projeto foi desenvolvido para fins educacionais como parte do bootcamp DIO.
 
 **Gabriel Buarque**
 
-LinkedIn: [seu-linkedin]
-GitHub: [seu-github]
+LinkedIn: [www.linkedin.com/in/gabriel-buarque-888101301]
+GitHub: [gabriel-buarque]
 
----
 
-⭐ Desenvolvido com TypeScript e ☕
-
-🎯 VERSÃO CURTA DO README (se preferir algo mais direto)
-markdown# 🏦 Sistema Bancário TypeScript
-
-Sistema bancário com POO desenvolvido no bootcamp DIO.
-
-## Funcionalidades
-
-- Conta Pessoa Física (depósito/saque)
-- Conta Empresa (depósito/saque/empréstimo)
-- Conta Especial (depósito com bônus de R$ 10)
-
-## Tecnologias
-
-TypeScript | Node.js | POO
-
-## Como usar
-```bash
-tsc && node app.js
-```
-
-## Conceitos aplicados
-
-✅ Classes Abstratas
-✅ Herança
-✅ Encapsulamento
-✅ Polimorfismo
-
----
-
-Desenvolvido por Gabriel Buarque
